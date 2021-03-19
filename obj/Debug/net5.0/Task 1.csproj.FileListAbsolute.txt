@@ -1,0 +1,16 @@
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.csprojAssemblyReference.cache
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\Task 1.exe
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\Task 1.deps.json
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\Task 1.dll
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\ref\Task 1.dll
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\bin\Debug\net5.0\Task 1.pdb
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.dll
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.pdb
+D:\Programming\OOIntro\Week 2\Exercise 2\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
